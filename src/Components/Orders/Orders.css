@@ -1,0 +1,29 @@
+.orders-wraper img{
+    width: 200px;
+    /* height: 100px; */
+}
+
+.outer-order-wraper{
+    margin-left: 200px;
+}
+
+.paid img{
+    /* color: red;
+     */
+     margin-left: -82px;
+    width: 50px;
+    /* margin-bottom: 20px; */
+}
+
+.outer-order-wraper .data{
+    padding-top: 60px;
+}
+
+
+.outer-order-wraper .price{
+    margin-top: 10px;
+    font-size: 26px;
+}
+.outer-order-wraper .carts{
+    height: 330px;
+}

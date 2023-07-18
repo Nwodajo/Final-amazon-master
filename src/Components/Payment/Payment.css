@@ -1,0 +1,74 @@
+.payment-checkout-outer-wraper{
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+        padding-top: 10px;
+}
+
+.payment-all-data{
+    display: flex;
+}
+
+.payment-data{
+    margin-left: 30px;
+}
+
+.payment-product-img img {
+    width: 180px;
+height: 180px;
+object-fit: contain;
+margin-left: 20px;
+}
+
+.payment-cart-wraper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.payment-banner-title{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+.payment-banner-title span{
+    color: blue;
+}
+
+
+.payment-buynow > button {
+  background: #f0c14b;
+  height: 30px;
+  margin-top: 10px;
+  border: 1px solid;
+  border-radius: 15px;
+  margin-top: 10px;
+  border: 1px solid #F7CA00;
+background-color: #F7CA00;
+}
+
+.payment-footer{
+margin-left: 20px;
+}
+
+.payment-footer-wraper{
+    display: flex;
+    margin-left: 50px;
+}
+
+.payment-footer-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.payment-sub-total{
+    font-weight: bold;
+}
+
+.remove-button{
+    margin-top: 10px;
+}
+
+.card-element{
+    width: 400px;
+    margin: 20px auto;
+}

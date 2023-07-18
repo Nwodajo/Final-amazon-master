@@ -1,0 +1,7 @@
+.cart-wraper{
+height:400px ;
+}
+
+.product-img img{
+    object-fit: contain;
+}

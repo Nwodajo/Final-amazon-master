@@ -1,0 +1,140 @@
+.outer-wraper{
+display: flex;
+width: 100%;
+background-color: #131921;
+color: white;
+height: 60px;
+justify-content: space-between;
+}
+.amazon-logo{
+    width: 100px;
+    height: 50px;
+    margin: 10px 0 10px 15px;
+    object-fit: contain;
+}
+
+.delivery{
+    display: flex;
+    width: 150px;
+    margin-left: -80px;
+}
+.location-icon{
+    padding-top: 20px;
+}
+.first-paragraphs{
+    padding-top: 15px;
+}
+
+.p1{
+    font-size: 13px;
+    line-height: 10px;
+    opacity: 0.7;
+}
+
+.p2{
+    font-size: 16px;
+}
+
+.first-paragraphs .p1{
+    font-size: 13px;
+    line-height: 0.1px;
+    opacity: 0.7;
+}
+
+.first-paragraphs .p2{
+    font-size: 16px;
+}
+
+
+
+.drop-down{
+    margin-left: -60px;
+}
+
+select{
+    width: 52px;
+    height: 42px;
+    border-radius: 5px 0 0 5px;
+    border: #F3F3F3;
+    margin-right: 1px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.search-input{
+    width: 530px;
+    height: 42px;
+    border: #F3F3F3;
+    color: black;
+}
+.search-wraper{
+    display: flex;
+    margin: auto 0;
+}
+.search-logo{
+    background-color: #F3A847;
+    width: 45px;
+    height: 42px;
+    padding: 5px 0;
+    /* border-radius: 5%  ; */
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border: #F3A847;
+}
+.en{
+    padding-top: 3px;
+}
+
+.flag{
+    display: flex;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: -70px;
+}
+.flag img{
+    width: 29px;
+    height: 24px;
+    object-fit: contain;
+}
+.search-internal{
+    text-align: center;
+    padding-top: 4px;
+}
+
+.links{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+
+
+.signin{
+    padding-top: 15px;
+    margin-left: -30px;
+}
+
+.signin .p1{
+    opacity: 1;}
+
+.returns{
+    padding-top: 15px;
+    margin-left: -30px;
+}
+
+.returns .p1{
+    opacity: 1;}    
+.cart{
+    width: 30px;
+    padding-top: 15px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.lenght{
+    color: white;
+}
+
+/* .header .first-paragraphs{
+height: 10px;
+} */

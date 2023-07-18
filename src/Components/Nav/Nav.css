@@ -1,0 +1,27 @@
+.wraper{
+background-color: #232F3E;
+
+display: flex;
+height: 40px;
+}
+
+.first-ul{
+    width: 450px;
+    padding: 10px 0 0 25px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+}
+
+.shop{
+  margin-left: 690px;
+  font-size: 14px;  
+  padding: 10px 0 0 25px;
+}
